@@ -1,0 +1,9 @@
+{
+  "name": "whatsdapp-chatbot",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "whatsdapp": "./../whatsdapp-lib",
+    "fs-extra": "9.0.1"
+  }
+}
